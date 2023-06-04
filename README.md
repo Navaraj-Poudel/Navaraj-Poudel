@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navaraj-poudel&show_icons=true&locale=en&layout=compact" alt="navaraj-poudel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navaraj-poudel&show_icons=true&locale=en" alt="navaraj-poudel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navaraj-poudel&" alt="navaraj-poudel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navaraj-poudel&" alt="navaraj-poudel" /></p>
